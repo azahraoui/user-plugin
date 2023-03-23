@@ -171,6 +171,7 @@ return [
         'login_first' => 'Vous devez d’abord vous connecter !',
         'already_active' => 'Votre compte a déjà été activé !',
         'activation_email_sent' => 'Un e-mail d’activation a été envoyé sur votre adresse e-mail personnelle.',
+        'activation_by_admin' => 'Vous vous êtes inscrit avec succès. Votre compte n\'est pas encore actif et doit être approuvé par un administrateur.',
         'registration_disabled' => 'La création de compte est désactivée pour le moment.',
         'sign_in' => 'Connexion',
         'register' => 'Créer un compte',
